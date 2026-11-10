@@ -12,7 +12,7 @@
 | Sprint | Scope | Delivery status | Evidence status |
 | --- | --- | --- | --- |
 | 01 Foundation | Charter, architecture, threat model, repo structure | Complete. Foundation published on GitHub. | Design diagrams and local verification record available. Published branch verified and repository screenshot captured. |
-| 02 Registry and policy | Synthetic agent registry, roles, scoped grants, default-deny decisions | Planned | Pending local allow/deny evidence |
+| [02 Registry and policy](sprint-02-registry-policy/README.md) | Synthetic agent registry, roles, scoped grants, default-deny decisions | Practice checks complete and published on the practice branch.| Missing-grant denial and matching-grant allowance captured. |
 | 03 Joiner | Ownership, approval, issuance, and scoped access | Planned | Pending approval and access decisions |
 | 04 Mover | Replace access, handle retries and stale events | Planned | Pending old/new access and replay checks |
 | 05 Leaver | Disable agents, revoke grants, invalidate prior sessions | Planned | Pending post-revocation denial |
