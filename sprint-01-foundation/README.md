@@ -35,5 +35,5 @@ This visual was generated from actual workspace checks. The initial checks are p
 - [x] Sprint visuals embedded in order and indexed.
 - [x] Initialize Git on `main`.
 - [x] Confirm the initial local commit (27e95b6).
-- [ ] Verify the authenticated GitHub account, destination owner, repository visibility, and permission to create repositories.
-- [ ] Create `identitychain-ai-governance-lab`, push the foundation, and capture the repository page with the initial files visible.
+- [x] Verify the authenticated GitHub account, destination owner, repository visibility, and permission to create repositories.
+- [x] Create `identitychain-ai-governance-lab`, push the foundation, and capture the repository page with the initial files visible.
