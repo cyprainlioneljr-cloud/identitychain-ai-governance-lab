@@ -2,7 +2,7 @@
 
 ## Working decisions
 
-- Repository name: `identitychain-ai-governance-lab`. GitHub owner and visibility are pending verification.
+- Repository name: `identitychain-ai-governance-lab`. Public on GitHub under `cyprainlioneljr-cloud`.
 - JML is the primary use case. Use synthetic agent identities and local resources.
 - Target $0/month, capped at $25/month. Apply the charter's verification and approval gate before billable deployment.
 - Every sprint owns a `screenshots/` folder. In its README, use numbered headings in execution order, embed each visual at full available width, explain what it shows, and include a screenshot index. Distinguish design diagrams from captured evidence. Mark uncaptured evidence as pending.
@@ -11,7 +11,7 @@
 
 | Sprint | Scope | Delivery status | Evidence status |
 | --- | --- | --- | --- |
-| 01 Foundation | Charter, architecture, threat model, repo structure | Local foundation drafted. GitHub publication pending. | Design diagrams and local verification record available. GitHub evidence pending. |
+| 01 Foundation | Charter, architecture, threat model, repo structure | Foundation published on GitHub. | Design diagrams and local verification record available. Published branch verified. Repository page screenshot pending. |
 | 02 Registry and policy | Synthetic agent registry, roles, scoped grants, default-deny decisions | Planned | Pending local allow/deny evidence |
 | 03 Joiner | Ownership, approval, issuance, and scoped access | Planned | Pending approval and access decisions |
 | 04 Mover | Replace access, handle retries and stale events | Planned | Pending old/new access and replay checks |

@@ -1,6 +1,6 @@
 # Sprint 01 · Foundation
 
-Local foundation prepared. Git was initialized on `main`. GitHub publication is pending authenticated access. No JML runtime or billable services were deployed.
+Local foundation prepared. Git was initialized on `main`. The foundation was published to the public GitHub repository. No JML runtime or billable services were deployed.
 
 ## 01. Define the lifecycle scope
 
@@ -27,7 +27,7 @@ This visual was generated from actual workspace checks. The initial checks are p
 | 01 | [01-jml.svg](screenshots/01-jml.svg) | Design diagram | Included |
 | 02 | [02-architecture.svg](screenshots/02-architecture.svg) | Design diagram | Included |
 | 03 | [03-local-verification.svg](screenshots/03-local-verification.svg) | Rendered command evidence | Captured locally |
-| 04 | GitHub repository and initial files | Screenshot | Pending access and publication |
+| 04 | GitHub repository and initial files | Screenshot | Pending repository page capture |
 
 ## Acceptance and handoff
 
@@ -35,5 +35,6 @@ This visual was generated from actual workspace checks. The initial checks are p
 - [x] Sprint visuals embedded in order and indexed.
 - [x] Initialize Git on `main`.
 - [x] Confirm the initial local commit (27e95b6).
-- [ ] Verify the authenticated GitHub account, destination owner, repository visibility, and permission to create repositories.
-- [ ] Create `identitychain-ai-governance-lab`, push the foundation, and capture the repository page with the initial files visible.
+- [x] Verify the repository owner and public visibility.
+- [x] Verify that GitHub `main` contains the foundation at `d8bdbae`.
+- [ ] Capture the GitHub repository page with the initial files visible.

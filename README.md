@@ -8,4 +8,4 @@ A GitHub-first, local-first lab for governing AI agent identities through Joiner
 - [Project Bible and sprint tracker](PROJECT-BIBLE.md)
 - [Sprint 1 foundation and evidence](sprint-01-foundation/README.md)
 
-Planned GitHub repository: `identitychain-ai-governance-lab`. GitHub publication is pending verification of the destination and access.
+[Public GitHub repository](https://github.com/cyprainlioneljr-cloud/identitychain-ai-governance-lab)
