@@ -20,6 +20,12 @@ The [architecture](../docs/architecture.md) separates policy review from local e
 
 This visual was generated from actual workspace checks. The initial checks are preserved below. On retry, Git initialization succeeded, the GitHub API returned HTTP 200 for its public endpoint, and the stored credential returned HTTP 401 on the authenticated account endpoint.
 
+## 04. Verify publication on GitHub
+
+![Public IdentityChain repository on main with the foundation files visible](screenshots/04-github-publication.png)
+
+This screenshot shows the public repository on `main` at commit `093ec39`, with the documentation, sprint folder, and Project Bible visible. It captures the repository before the publication status text was updated.
+
 ## Screenshot index
 
 | Figure | File | Type | Status |
@@ -27,7 +33,7 @@ This visual was generated from actual workspace checks. The initial checks are p
 | 01 | [01-jml.svg](screenshots/01-jml.svg) | Design diagram | Included |
 | 02 | [02-architecture.svg](screenshots/02-architecture.svg) | Design diagram | Included |
 | 03 | [03-local-verification.svg](screenshots/03-local-verification.svg) | Rendered command evidence | Captured locally |
-| 04 | GitHub repository and initial files | Screenshot | Pending repository page capture |
+| 04 | [04-github-publication.png](screenshots/04-github-publication.png) | GitHub screenshot | Captured |
 
 ## Acceptance and handoff
 
@@ -37,4 +43,4 @@ This visual was generated from actual workspace checks. The initial checks are p
 - [x] Confirm the initial local commit (27e95b6).
 - [x] Verify the repository owner and public visibility.
 - [x] Verify that GitHub `main` contains the foundation at `d8bdbae`.
-- [ ] Capture the GitHub repository page with the initial files visible.
+- [x] Capture the GitHub repository page with the initial files visible.
