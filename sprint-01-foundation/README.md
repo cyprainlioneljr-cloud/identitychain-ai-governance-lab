@@ -34,6 +34,6 @@ This visual was generated from actual workspace checks. The initial checks are p
 - [x] Charter, architecture, threat model, and seven-sprint tracker present.
 - [x] Sprint visuals embedded in order and indexed.
 - [x] Initialize Git on `main`.
-- [ ] Confirm the initial local commit.
+- [x] Confirm the initial local commit (27e95b6).
 - [ ] Verify the authenticated GitHub account, destination owner, repository visibility, and permission to create repositories.
 - [ ] Create `identitychain-ai-governance-lab`, push the foundation, and capture the repository page with the initial files visible.
