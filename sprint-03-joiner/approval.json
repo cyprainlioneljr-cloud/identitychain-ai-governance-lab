@@ -1,0 +1,13 @@
+{
+  "request_id": "joiner-001",
+  "reviewed_by": "access-review-team",
+  "decision": "approved",
+  "approved_details": {
+    "agent_id": "summary-agent",
+    "requested_by": "reporting-team",
+    "role": "reader",
+    "resource": "sample-reports",
+    "action": "read",
+    "requested_duration_hours": 24
+  }
+}
