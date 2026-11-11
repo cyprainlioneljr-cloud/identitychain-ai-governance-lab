@@ -15,7 +15,7 @@
 | [02 Registry and policy](sprint-02-registry-policy/README.md) | Synthetic agent registry, roles, scoped grants, default-deny decisions | Practice checks complete and published on the practice branch.| Missing-grant denial and matching-grant allowance captured. |
 | [03 Joiner](sprint-03-joiner/README.md) | Ownership, approval, issuance, and scoped access | Local Joiner exercise verified. | Approval, policy, scoped access, and expiry results captured. |
 | [04 Mover](sprint-04-mover/README.md) | Replace access, handle retries and stale events | Mover exercise verified locally and merged into main. | Before and after access, stale denial, and duplicate retry captured. |
-| 05 Leaver | Disable agents, revoke grants, invalidate prior sessions | Planned | Pending post-revocation denial |
+| [05 Leaver](sprint-05-leaver/README.md) | Disable agents, revoke grants, invalidate prior sessions | Local Leaver exercise verified. | Baseline access, offboarding denial, and outdated session denial captured. |
 | 06 Audit | Correlated lifecycle and decision records, policy provenance | Planned | Pending audit trace and reconciliation |
 | 07 Review and handoff | End-to-end JML run, residual-risk review, reproducibility | Planned | Pending reproducible run and evidence review |
 

@@ -1,0 +1,13 @@
+{
+  "agent_id": "summary-agent",
+  "owner": "reporting-team",
+  "role": "catalog-reader",
+  "status": "active",
+  "authorization_version": 2,
+  "grants": [
+    {
+      "resource": "sample-catalog",
+      "action": "read"
+    }
+  ]
+}
