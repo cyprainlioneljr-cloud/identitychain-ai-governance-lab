@@ -1,0 +1,12 @@
+{
+  "event_id": "move-001",
+  "agent_id": "summary-agent",
+  "expected_authorization_version": 1,
+  "new_role": "catalog-reader",
+  "replacement_grants": [
+    {
+      "resource": "sample-catalog",
+      "action": "read"
+    }
+  ]
+}
