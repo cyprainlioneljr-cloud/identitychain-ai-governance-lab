@@ -1,0 +1,12 @@
+{
+  "event_id": "leaver-001",
+  "event_type": "agent_offboarded",
+  "timestamp": "2026-11-11T18:00:00Z",
+  "actor_id": "lab-admin",
+  "agent_id": "summary-agent",
+  "previous_status": "active",
+  "new_status": "disabled",
+  "previous_authorization_version": 2,
+  "new_authorization_version": 3,
+  "grants_revoked": 1
+}

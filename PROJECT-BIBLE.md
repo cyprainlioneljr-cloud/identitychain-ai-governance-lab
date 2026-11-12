@@ -16,7 +16,7 @@
 | [03 Joiner](sprint-03-joiner/README.md) | Ownership, approval, issuance, and scoped access | Local Joiner exercise verified. | Approval, policy, scoped access, and expiry results captured. |
 | [04 Mover](sprint-04-mover/README.md) | Replace access, handle retries and stale events | Mover exercise verified locally and merged into main. | Before and after access, stale denial, and duplicate retry captured. |
 | [05 Leaver](sprint-05-leaver/README.md) | Disable agents, revoke grants, invalidate prior sessions | Local Leaver exercise verified. | Baseline access, offboarding denial, and outdated session denial captured. |
-| 06 Audit | Correlated lifecycle and decision records, policy provenance | Planned | Pending audit trace and reconciliation |
+| [06 Audit](sprint-06-audit/README.md) | Correlated lifecycle and decision records, policy provenance | Local audit exercise verified. | Linked records and three review conditions captured, plus fingerprint verification. |
 | 07 Review and handoff | End-to-end JML run, residual-risk review, reproducibility | Planned | Pending reproducible run and evidence review |
 
 Close a sprint when its acceptance checks have been run, evidence is embedded and indexed, and outstanding items are explicitly recorded.

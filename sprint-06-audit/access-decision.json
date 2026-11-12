@@ -1,0 +1,12 @@
+{
+  "decision_id": "decision-001",
+  "related_event_id": "leaver-001",
+  "timestamp": "2026-11-11T18:01:00Z",
+  "agent_id": "summary-agent",
+  "session_authorization_version": 2,
+  "resource": "sample-catalog",
+  "action": "read",
+  "decision": "DENY",
+  "reason": "agent is disabled",
+  "policy_sha256":"8891a316c324d72bb6b58629c37c9ecf851b752dac154498f833ced53b2f198e"
+}
