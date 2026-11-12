@@ -12,5 +12,6 @@ A GitHub-first, local-first lab for governing AI agent identities through Joiner
 - [Sprint 4 Mover workflow and evidence](sprint-04-mover/README.md)
 - [Sprint 5 Leaver workflow and evidence](sprint-05-leaver/README.md)
 - [Sprint 6 audit workflow and evidence](sprint-06-audit/README.md)
+- [Sprint 7 reproducibility and handoff](sprint-07-handoff/README.md)
 
 [Public GitHub repository](https://github.com/cyprainlioneljr-cloud/identitychain-ai-governance-lab)
